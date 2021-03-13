@@ -14,6 +14,21 @@ A: Ethereum had the highest compound score of 20.
 #### Q. Which coin had the highest positive score?
 A:Ethereum had the highest positive score of 20. 
 
-#### 2. Natural Language Processing - Tokenizer & Word Cloud
+#### 2. Natural Language Processing - Tokenizer & Word Clouds
 Using NLTK and Python, the text for Bitcoin and Ethereum has been tokenized to make sure each word is lowercase, remove punctuation and remove
 stopwords and word cloud visualization has been used to summarize the news for Bitcoin and Ethereum. 
+
+#### BTC Word Cloud 
+![](images/btcword.jpeg)
+
+#### ETH Word Cloud 
+![](images/ethword.jpeg)
+
+#### 3. Named Entity Recognition 
+Now we have built a named entity recognition model for both Bitcoin and Ethereum and then visualized the tags using SpaCy.
+
+#### BTC NER
+![](images/btcner.jpeg)
+
+#### ETH NER
+![](images/ethner.jpeg)
