@@ -1,5 +1,5 @@
-### Unit 12_Tales from the Crypto 
-#### There's been a lot of hype in the news lately about cryptocurrency. The following code will look at the latest news headlines regarding Bitcoin and Ethereum to get a better feel for the current public sentiment around each coin. Natural Language Processing techniques will be used to understand factors involved with the coin prices, such as common words and phrases and entities mentioned in the articles. 
+### Unit 12_Natural Language Processing - Crypto Sentiment 
+#### There's been a lot of hype in the news lately about cryptocurrency. The attached .ipnyb file contains our code which will look at the latest news headlines related to Bitcoin and Ethereum to get a better feel for the current public sentiment around each coin. Natural Language Processing techniques will be used to understand factors involved with the coin prices, such as common words and phrases and entities mentioned in the articles. 
 
 #### 1. Sentiment Analysis
 Using the newsapi, the latest news about Bitcoin and Ethereum have been pulled for further analysis of the sentiment scores for each coin. Please refer to .ipynb file for detailed code. A summary of the analysis can be found below.
