@@ -1,1 +1,19 @@
-# cryptoproject
+### Unit 12_Tales from the Crypto 
+#### There's been a lot of hype in the news lately about cryptocurrency. The following code will look at the latest news headlines regarding Bitcoin and Ethereum to get a better feel for the current public sentiment around each coin. Natural Language Processing techniques will be used to understand factors involved with the coin prices, such as common words and phrases and entities mentioned in the articles. 
+
+#### 1. Sentiment Analysis
+Using the newsapi, the latest news about Bitcoin and Ethereum have been pulled for further analysis of the sentiment scores for each coin. Please refer to .ipynb file for detailed code. A summary of the analysis can be found below.
+
+### Anaylsis:
+#### Q: Which coin had the highest mean positive score?
+A: Ethereum had the highest mean positive score of 7.47%.
+
+#### Q: Which coin had the highest compound score?
+A: Ethereum had the highest compound score of 20. 
+
+#### Q. Which coin had the highest positive score?
+A:Ethereum had the highest positive score of 20. 
+
+#### 2. Natural Language Processing - Tokenizer & Word Cloud
+Using NLTK and Python, the text for Bitcoin and Ethereum has been tokenized to make sure each word is lowercase, remove punctuation and remove
+stopwords and word cloud visualization has been used to summarize the news for Bitcoin and Ethereum. 
