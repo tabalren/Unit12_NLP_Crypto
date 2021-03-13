@@ -15,8 +15,7 @@ A: Ethereum had the highest compound score of 20.
 A:Ethereum had the highest positive score of 20. 
 
 #### 2. Natural Language Processing - Tokenizer & Word Clouds
-Using NLTK and Python, the text for Bitcoin and Ethereum has been tokenized to make sure each word is lowercase, remove punctuation and remove
-stopwords and word cloud visualization has been used to summarize the news for Bitcoin and Ethereum. 
+Using NLTK and Python, the text for Bitcoin and Ethereum has been tokenized to make sure each word is lowercase, punctuation and stopwords have been removed and word cloud visualization has been used to summarize the news for Bitcoin and Ethereum. 
 
 #### BTC Word Cloud 
 ![](images/btcword.jpeg)
@@ -25,7 +24,7 @@ stopwords and word cloud visualization has been used to summarize the news for B
 ![](images/ethword.jpeg)
 
 #### 3. Named Entity Recognition 
-Now we have built a named entity recognition model for both Bitcoin and Ethereum and then visualized the tags using SpaCy.
+Now we have built a named entity recognition model for both Bitcoin and Ethereum and then visualized the tags using SpaCy. THe SpaCy visualizations can be seen below. 
 
 #### BTC NER
 ![](images/btcner.jpeg)
